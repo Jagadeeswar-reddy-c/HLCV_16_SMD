@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+pycocotools
+segment-anything
+transformers>=4.35
+opencv-python
+matplotlib
+seaborn
+numpy
+Pillow
+tqdm
+scipy
