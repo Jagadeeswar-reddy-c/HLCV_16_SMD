@@ -15,10 +15,10 @@ data/subsets/
 checkpoints/
 
 # Experiment outputs
-results/
+# results/
 
 # Generated figures
-figures/
+# figures/
 
 # Python
 __pycache__/
